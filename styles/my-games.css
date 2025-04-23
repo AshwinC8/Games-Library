@@ -1,0 +1,123 @@
+@import url(./theme.css);
+
+body {
+    background-color: var(--primary);
+    color: var(--text-color);
+}
+
+nav {
+    background-color: var(--secondary);  
+}
+
+nav a{
+    color: var(--text-color) !important;    
+}
+
+.active {
+    font-weight: 600;
+}
+
+.main-content {
+    margin: 50px auto;
+}
+
+.logo {
+    height: 35px;
+}
+
+.registration-container {
+    background-color: var(--secondary);
+    border: 0px solid black;
+    border-radius: 20px;
+    max-width: 600px;
+}
+
+.btn {
+    background-color: var(--btn-color);
+    /* color: #A25772; */
+}
+
+.footer {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: grey;
+}
+
+.footer a {
+    text-decoration: none;
+    color: grey;
+}
+
+.spacer {
+    margin: 0px 10px;
+}
+
+.game-image {
+    height: 400px;
+}
+
+.game-logo {
+    width: 100%;
+    height: 100%;
+    max-height: 200px;
+}
+
+.card-content {
+    background-color: var(--secondary);
+    max-height: 100%;
+    color: var(--text-color);
+}
+
+.card-content p {
+    display: flex;
+    align-items: baseline;
+    justify-content: baseline;
+    display: -webkit-box;
+    overflow : hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;  
+}
+
+.card-content img {
+    height: 100%;
+    max-height: 20px;
+}
+
+#carouselExampleIndicators {
+    max-height: 400px;
+    max-width: 1000px;
+}
+
+.box {
+    max-width: 310px;
+}
+
+#import {
+    height: 15px;
+}
+
+#main-content {
+    min-height: 70vh;
+}
+
+#add-button {
+    align-self: center;
+    max-width: 300px;
+}
+
+.modal-header {
+    background-color: var(--secondary);
+}
+
+.modal-body {
+    background-color: var(--primary);
+}
+
+select {
+    max-width: 120px;
+}

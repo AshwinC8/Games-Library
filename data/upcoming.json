@@ -1,0 +1,61 @@
+{
+    "upcoming":[
+        {
+            "name": "A Highland Song",
+            "logo": "./assets/logos/highland-song.avif",
+            "gameImage": "./assets/game-images/highland-song.avif",
+            "date": "12/5/23",
+            "desc": "A wild adventure through the Scottish Highlands, with open platforming and dynamic storytelling from the creators of 80 Days and Heaven's Vault."
+        },
+        {
+            "name": "Shantae Advance: Risky Revolution",
+            "logo": "./assets/logos/shantae-adventure.avif",
+            "gameImage": "./assets/game-images/shantae-adventure.avif",
+            "date": "2024",
+            "desc": "Shantae's adventure comes full circle in this long-lost sequel!"
+        },
+        {
+            "name": "Prince of Persia The Lost Crown",
+            "logo": "./assets/logos/prince-of-persia.avif",
+            "gameImage": "./assets/game-images/prince-of-persia.avif",
+            "date": "1/18/24",
+            "desc": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate."
+        },
+        {
+            "name": "On Your Tail™",
+            "logo": "./assets/logos/on-your-tail.avif",
+            "gameImage": "./assets/game-images/on-your-tail.avif",
+            "date": "2024",
+            "desc": "Embark on a seaside getaway you’ll never forget in On Your Tail™, a sleuthy story-driven 3D life sim of relaxation, detective-work, and knowing how to play your cards right."
+        },
+        {
+            "name": "SPY×ANYA: Operation Memories",
+            "logo": "./assets/logos/spy-x-anya.avif", 
+            "gameImage": "./assets/game-images/spy-x-anya.avif",
+            "date": "2024",
+            "desc": "A slice of daily life from an undercover family."
+        },
+        {
+            "name": "Palia",
+            "logo": "./assets/logos/palia.avif", 
+            "gameImage": "./assets/game-images/palia.avif",
+            "date": "2023",
+            "desc": "If you’re looking to escape the hustle and bustle of life, it’s time for you to come home to Palia. Start your journey in this free-to-play multiplayer cozy sim, set in a breathtaking new world that you can truly make your own. As you start your adventure in the idyllic Kilima Village, you will discover there’s more to Palia than just this simple farm life…"
+        },
+        {
+            "name": "The Gecko Gods",
+            "logo": "./assets/logos/the-gecko-gods.avif", 
+            "gameImage": "./assets/game-images/the-gecko-gods.avif",
+            "date": "Spring 2024",
+            "desc": "Explore a mysterious island in The Gecko Gods, an immersive, relaxing exploration-adventure game where you play as a tiny lil gecko! Complete ancient puzzles, effortlessly climb cliffs and eat bugs as you make your way across an island civilization lost to time."
+        },
+        {
+            "name": "Another Code™: Recollection", 
+            "logo": "./assets/logos/another-code.avif", 
+            "gameImage": "./assets/game-images/another-code.avif",
+            "date": "1/19/24",
+            "desc": "Sleuth your way to the truth in two fully enhanced mystery adventures with Another Code™: Recollection"
+        }
+    ]
+
+}

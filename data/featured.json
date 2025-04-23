@@ -1,0 +1,61 @@
+{
+    "featured":[
+        {
+            "name": "Stardew Valley",
+            "logo": "./assets/logos/stardew-valley.avif",
+            "gameImage": "./assets/game-images/stardew-valley.avif",
+            "rating": "5/5",
+            "desc": "You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. "
+        },
+        {
+            "name": "Super Smash Bros.™ Ultimate",
+            "logo": "./assets/logos/super-smash-bros-ultimate.jpeg",
+            "gameImage": "./assets/game-images/super-smash-bros-ultimate.avif",
+            "rating": "4/5",
+            "desc": "Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every fighter in Super Smash Bros."
+        },
+        {
+            "name": "The Legend of Zelda™: Tears of the Kingdom",
+            "logo": "./assets/logos/zelda.avif",
+            "gameImage": "./assets/game-images/zelda.avif",
+            "rating": "5/5",
+            "desc": "An epic adventure awaits in the Legend of Zelda: Tears of the Kingdom game, only on the Nintendo Switch system."
+        },
+        {
+            "name": "NBA 2K23",
+            "logo": "./assets/logos/nba.avif",
+            "gameImage": "./assets/game-images/nba.avif",
+            "rating": "3.5/5",
+            "desc": "Rise to the occasion and realize your full potential in NBA 2K23. Prove yourself against the best players in the world and showcase your talent in MyCAREER. "
+        },
+        {
+            "name": "Don't Starve Together",
+            "logo": "./assets/logos/dont-starve.avif", 
+            "gameImage": "./assets/game-images/dont-starve.avif",
+            "rating": "3.5/5",
+            "desc": "Don't Starve Together is the standalone multiplayer expansion of the uncompromising wilderness survival game, Don't Starve."
+        },
+        {
+            "name": "Mario Kart™ 8 Deluxe",
+            "logo": "./assets/logos/mario-kart.avif", 
+            "gameImage": "./assets/game-images/mario-kart.avif",
+            "rating": "4/5",
+            "desc": "Race with Mario and friends anytime, anywhere!"
+        },
+        {
+            "name": "Minecraft",
+            "logo": "./assets/logos/minecraft.avif", 
+            "gameImage": "./assets/game-images/minecraft.avif",
+            "rating": "5/5",
+            "desc": "Minecraft is a game about placing blocks and going on adventures."
+        },
+        {
+            "name": "DRAGON BALL FIGHTERZ", 
+            "logo": "./assets/logos/dragon-ball.avif", 
+            "gameImage": "./assets/game-images/dragon-ball.avif",
+            "rating": "3.5/5",
+            "desc": "DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its all-powerful fighters."
+        }
+    ]
+
+}

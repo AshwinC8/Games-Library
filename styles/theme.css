@@ -1,0 +1,14 @@
+.default {
+    --primary: #FFE3BB;
+    --secondary: #FFD28F;
+    --text-color: #A25772;
+    --btn-color: #B4BDFF;
+}
+
+
+.theme-2 {
+    --primary: #A8D8EA;
+    --secondary: #FCBAD3;
+    --text-color: #AA96DA;
+    --btn-color: #FFFFD2;
+}

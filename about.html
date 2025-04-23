@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Itch.io</title>
+    <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+  />
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="./styles/about.css">
+  <link rel="stylesheet" href="./styles/theme.css">
+</head>
+<body class="default">
+    <nav class="navbar navbar-expand-lg m-3 rounded-2">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">
+            <img class="logo" src="./assets/logo-black-new.svg" alt="logo">
+          </a>
+          
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="./home.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="./about.html">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="./contact.html">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="./my-games.html">
+                  My Games
+                </a>
+              </li>
+            </ul>
+            <div class="d-flex align-items-lg-center gap-2 flex-sm-column flex-lg-row">
+            
+              <div class="d-flex flex-row gap-1">
+                <a class="" href="./login.html">
+                  <button class="btn" type="submit">Login</button>
+                </a>
+                <a class="" href="./registration.html">
+                  <button class="btn" type="submit">Register</button>
+                </a>
+              </div>
+  
+              
+              <select class="form-select" id="theme-box" id="theme-selector">
+                <option value="default">Theme 1</option>
+                <option value="theme-2">Theme 2</option>
+              </select>
+              
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      <div class="container-fluid py-0 px-5">
+        <div id="about" class="container-sm my-5">
+            <h1 class="mb-3">About itch.io</h1>
+            <div class="px-3 fs-5">
+              itch.io is an open marketplace for independent digital creators with a focus on independent video games. It’s a platform that enables anyone to sell the content they've created. As a seller you’re in charge of how it’s done: you set the price, you run sales, and you design your pages. It’s never necessary to get votes, likes, or follows to get your content approved, and you can make changes to how you distribute your work as frequently as you like.
+              <br><br>
+              itch.io is also a collection of some of the most unique, interesting, and independent creations you'll find on the web. We're not your typical digital storefront, with a wide range of both paid and free content, we encourage you to look around and see what you find.
+              <br><br>
+              itch.io gives creators the tools to make smart choices about how they distribute their content. Creators have access to detailed analytics and about how people discover, download, or play what they've created. Our creator dashboard gives easy access to data about what uploads resonate the most or what links drive the most attention.
+              <br><br>
+              <div class="d-flex justify-content-center align-items-center">
+                <img src="./assets/about.jpg" class="w-100 my-3 rounded-4" alt="about">
+              </div>
+              <br>
+              Our strong emphasis on empowering creators show in how build itch.io:
+              <br><br>
+              - We do not believe in exploiting content. Creators should be proud of the pages that display their work. They should never contain advertisements, distracting banners, links to other people’s pages, or any other links they didn’t approve of.
+              <br><br>
+              - We believe in making it easy for creators to collect money for their creations in a non-obtrusive way. No matter how large or small the project, it should be simple for fans to donate or pay what they think is fair.
+              <br><br>
+              - Every creator is unique, so we support a wide range of methods to help them make a living. All purchases and donations on itch.io are pay-what-you-want above the minimum. The minimum price can be set to zero: it’s free, but fans can choose to support the creator if they like what they're offering. itch.io supports pre-orders, selling rewards, creating early-access content, bundling your content, and even doing crowdfunding with project goals.
+            </div>
+        </div>
+        
+        <div id="Open-revenue-sharing" class="container-sm my-3">
+            <h2>Open revenue sharing</h2>
+              <div class="px-3 fs-5">
+                Most marketplaces have a fixed rate applied to all transactions. For most online distributors the standard has become 30%. When itch.io launched, it took a 0% cut of all transactions.
+                <br><br>
+                Since March 2015, itch.io has an open revenue sharing model. Sellers can now apply the pay what you want model towards itch.io: the revenue split between the seller and itch.io is configurable by the seller. Set it to 10%, 30%, or even 0%.
+                <br><br>
+                You might be thinking “that sounds pretty risky, what if everyone sets it to zero?” That’s a risk we're willing to take in the spirit of encouraging the generous and supportive community that’s already developed around itch.io.
+                <br><br>
+                If you like what we're doing please help spread awareness around itch.io. Encourage your friends or favorite developers to upload their games so we can build a marketplace whose primary goal is to support the creators it hosts.
+                <br><br>
+                Thanks,
+                — The itch.io team
+              </div>
+        </div>
+      </div>
+
+      <footer class="footer"> 
+        <span class="copyright">Copyright © 2023 itch corp</span>
+        <span class="spacer"> · </span><a href="#">Directory</a><span class="spacer"> · </span><a rel="nofollow" href="#">Terms</a><span class="spacer"> · </span><a rel="nofollow" href="#">Privacy</a><span class="spacer"> · </span><a rel="nofollow" href="#">Cookies</a>
+      </footer>
+
+      <script type="module" src="./scripts/themeSwitching.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+    "myGames": [
+        {
+            "name": "Sea of Stars",
+            "logo": "./assets/logos/sea-of-stars.avif",
+            "gameImage": "./assets/game-images/sea-of-stars.avif",
+            "rating": "4.5/5",
+            "desc": "Sea of Stars tells the story of two Children of the Solstice who combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fighting off the monstrous creations of an evil alchemist known as The Fleshmancer."
+        },
+        {
+            "name": "Blasphemous 2",
+            "logo": "./assets/logos/blasphemous-2.avif",
+            "gameImage": "./assets/game-images/blasphemous-2.avif",
+            "rating": "4/5",
+            "desc": "Awakened in a strange new land, and displaced from his final resting place, The Penitent One is thrust back into the endless cycle of life, death, and resurrection, with no other option than to explore this perilous new world and uncover its long-forgotten secrets. "
+        },
+        {
+            "name": "Shovel Knight Dig",
+            "logo": "./assets/logos/shovel-knight-dig.avif",
+            "gameImage": "./assets/game-images/shovel-knight-dig.avif",
+            "rating": "5/5",
+            "desc": "Jump, slash, and dig your way down an ever-changing chasm of mystery in Shovel Knight Dig, an all-new Shovel Knight adventure!"
+        },
+        {
+            "name": "Outer Wilds: Archaeologist Edition",
+            "logo": "./assets/logos/outer-wilds.avif", 
+            "gameImage": "./assets/game-images/outer-wilds.avif",
+            "rating": "4/5",
+            "desc": "An open world mystery about a solar system trapped in an endless time loop."
+        },
+        {
+            "name": "Mineko's Night Market",
+            "logo": "./assets/logos/minekos-night-market.avif", 
+            "gameImage": "./assets/game-images/minekos-night-market.avif",
+            "rating": "3/5",
+            "desc": "A narrative-driven, social simulation adventure game that celebrates Japanese culture. Craft whimsical items, eat delicious snacks, and ultimately enjoy all the cats!"
+        },
+        {
+            "name": "Enjoy the Diner", 
+            "logo": "./assets/logos/enjoy-the-diner.png", 
+            "gameImage": "./assets/game-images/enjoy-the-diner.avif",
+            "rating": "4.5/5",
+            "desc": "Enjoy the Diner is an adventure game where you'll wander into the eternal diner Moon Palace. Complete with a drink fountain!"
+        }
+    ]
+}

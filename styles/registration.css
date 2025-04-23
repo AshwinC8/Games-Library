@@ -1,0 +1,42 @@
+@import url(./theme.css);
+
+body {
+    background-color: var(--primary);
+    color: var(--text-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+}
+
+.logo {
+    height: 35px;
+}
+
+.header {
+    display: flex;
+    gap: 50px;
+}
+
+.registration-container {
+    background-color: var(--secondary);
+    border: 0px solid black;
+    border-radius: 20px;
+    max-width: 600px;
+}
+
+.btn {
+    background-color: var(--btn-color);
+}
+
+.submit-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+select {
+    max-width: 150px;
+}
