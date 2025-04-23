@@ -1,7 +1,7 @@
 # Itch.io Bootstrap Theme
 
 This project is a Bootstrap-based web application that replicates a theme for the Itch.io platform. It includes multiple pages, dynamic content, and theme-switching functionality.
-### [Link]([https://ashwinc8.github.io/Games-Library/home.html])
+### [Link](https://ashwinc8.github.io/Games-Library/home.html)
 
 ## Features
 
